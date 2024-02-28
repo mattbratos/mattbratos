@@ -6,7 +6,7 @@
 - 🎓 Entrepreneurship & Innovation student at Brunel University
 - 💙 Passionate about startups, design, and lifting weights.
 - 📚 I love philosophy and sometimes I write essays for fun. Nietzsche is my intelectual crush 😍.
-- 💻 Currently working on [Homebrew College Club](https://homebrew.so) my dissertaion project for which I'm building a education platform powerd by AI and aiming to outperform Harvard. I will post the final paper here when it's done.
+- 💻 Currently working on [Homebrew College Club](https://homebrew.so). It's my dissertaion project for which I'm building a education platform powerd by AI and checking if it can outperform Harvard. Can't wait to post the final paper here when it's done.
 
 ## 🚀 Technologies
 
@@ -20,7 +20,7 @@
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/maciej-bratosiewicz/)
+- LinkedIn: [Maciej Bratosiewicz](https://www.linkedin.com/in/maciej-bratosiewicz/)
 - Email: mattbratos@gmail.com
 
 ## ⚡ Fun fact
@@ -28,9 +28,9 @@
 - I started coding because nobody wanted to build my ideas for me 😂.
 - I'm Matt Bratos online because I've learned on my university that Maciej Bratosiewicz is unpronounceable for english speakers 🤷‍♂️.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattbratos&show_icons=true)
-
 <!--
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattbratos&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
