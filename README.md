@@ -16,7 +16,7 @@
 - Currently learning: [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 - Want to learn soon: TypeScript, Next.js, and Python for AI
 - Databases: Firebase, Supabase and SQL
-- Tools: Git, GitHub, VSCode, (currently I'm using zed in I love it), and I'm a psyhofan fan of Notion.
+- Tools: Git, GitHub, VSCode, (currently I'm using [zed](https://zed.dev) in I love it), and I'm a psyhofan fan of Notion.
 
 ## 📫 How to Reach Me
 
