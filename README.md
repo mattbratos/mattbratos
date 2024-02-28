@@ -1,9 +1,36 @@
-### Hi there 👋
+# Hi there 👋 I'm Matt
+
+## 👨‍💻 About Me
+
+- 🌍 From Warsaw 🇵🇱, now in London 🇬🇧.
+- 🎓 Entrepreneurship & Innovation student at Brunel University
+- 💙 Passionate about startups, design, and lifting weights.
+- 📚 I love philosophy and sometimes I write essays for fun. Nietzsche is my intelectual crush 😍.
+- 💻 Currently working on [Homebrew College Club](https://homebrew.so) my dissertaion project for which I'm building a education platform powerd by AI and aiming to outperform Harvard. I will post the final paper here when it's done.
+
+## 🚀 Technologies
+
+- Design: Figma
+- Frontend: HTML, CSS, JavaScript, React.js,
+- Backend: Python
+- Currently learning: [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+- Want to learn soon: TypeScript, Next.js, and Python for AI
+- Databases: Firebase, Supabase and SQL
+- Tools: Git, GitHub, VSCode, (currently I'm using zed in I love it), and I'm a psyhofan fan of Notion.
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/maciej-bratosiewicz/)
+- Email: mattbratos@gmail.com
+
+## ⚡ Fun fact
+
+- I started coding because nobody wanted to build my ideas for me 😂.
+- I'm Matt Bratos online because I've learned on my university that Maciej Bratosiewicz is unpronounceable for english speakers 🤷‍♂️.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattbratos&show_icons=true)
 
 <!--
-**mattbratos/mattbratos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
