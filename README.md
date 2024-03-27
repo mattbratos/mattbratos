@@ -26,7 +26,7 @@
 ## ⚡ Fun facts
 
 - 👨‍💻 I started coding because nobody wanted to build my amazing startup ideas for me 😂.
-- 📛 I'm Matt Bratos online because I've learned that Maciej Bratosiewicz is unpronounceable for English speakers 🤷‍♂️ at my university.
+- 📛 I'm Matt Bratos online because I've learned that Maciej Bratosiewicz is unpronounceable for English speakers 🤷‍♂️.
 
 ## 🌟 Projects
 
